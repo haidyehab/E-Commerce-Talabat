@@ -1,0 +1,12 @@
+E:\Project.netAPI\Talabat.APIs\Talabat.Core\bin\Release\net6.0\Talabat.Core.deps.json
+E:\Project.netAPI\Talabat.APIs\Talabat.Core\bin\Release\net6.0\Talabat.Core.dll
+E:\Project.netAPI\Talabat.APIs\Talabat.Core\bin\Release\net6.0\Talabat.Core.pdb
+E:\Project.netAPI\Talabat.APIs\Talabat.Core\obj\Release\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+E:\Project.netAPI\Talabat.APIs\Talabat.Core\obj\Release\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project.netAPI\Talabat.APIs\Talabat.Core\obj\Release\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+E:\Project.netAPI\Talabat.APIs\Talabat.Core\obj\Release\net6.0\Talabat.Core.AssemblyInfo.cs
+E:\Project.netAPI\Talabat.APIs\Talabat.Core\obj\Release\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+E:\Project.netAPI\Talabat.APIs\Talabat.Core\obj\Release\net6.0\Talabat.Core.dll
+E:\Project.netAPI\Talabat.APIs\Talabat.Core\obj\Release\net6.0\refint\Talabat.Core.dll
+E:\Project.netAPI\Talabat.APIs\Talabat.Core\obj\Release\net6.0\Talabat.Core.pdb
+E:\Project.netAPI\Talabat.APIs\Talabat.Core\obj\Release\net6.0\ref\Talabat.Core.dll
